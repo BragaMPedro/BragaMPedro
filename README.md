@@ -5,7 +5,7 @@ Fullstack Dev
 -------------
 
 *   🌍  I'm based in Brazil
-*   🧠  I'm learning Angular### Skills
+*   🧠  I'm learning Angular
 *   ⚡  Fun fact: I have a degree in psychology, studied and worked in design for quite some time, and waited almost 10 years for a new Silent Hills game
 
 ### Skills
