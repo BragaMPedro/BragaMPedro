@@ -5,7 +5,7 @@ Fullstack Dev
 -------------
 
 *   🌍  I'm based in Brazil
-*   🧠  I'm learning Angular
+*   🧠  I'm currently experimenting with Google AI Studio and Gemini
 *   ⚡  Fun fact: I have a degree in psychology, studied and worked in design for quite some time, and waited almost 10 years for a new Silent Hills game
 
 ### Skills
